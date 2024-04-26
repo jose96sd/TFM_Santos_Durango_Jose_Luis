@@ -6,4 +6,4 @@ Esta carpeta contiene los siguientes ficheros (python notebooks):
 - ETL_historico.ipynb --> en este notebook se procesan los datos históricos de Valenbici tomando un único valor por hora como 
                           referncia.
 
-- ETL_Spark.ipynb --> procesamos los valores históricos de Valenbisi, imputando los valores medios por hora.
+- ETL_Spark.ipynb --> procesamos los valores históricos de Valenbisi, imputando los valores medios por hora y calculando el número total de viajes por hora.
