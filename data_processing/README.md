@@ -8,9 +8,9 @@ Esta carpeta contiene los siguientes ficheros (python notebooks):
 
 - ETL_Spark.ipynb --> procesamos los valores históricos de Valenbisi, imputando los valores medios por hora y calculando el número total de viajes por hora.
 
-Para poder ejecutar los notebooks, se necesita realizar lo siguiente:
+Para poder ejecutar los notebooks, se necesita realizar lo siguiente: 
 
-- Descargar la carpeta data del siguiente enlace:
+- Descargar la carpeta data del siguiente enlace: https://www.dropbox.com/scl/fi/jrh7nlc7vf2k5mdletfl2/data.zip?rlkey=8rrai8rdxta1srk1vfsaqj2io&st=0nptvjq6&dl=0
 - Descomprimir la carpeta data y sacar las dos carpetas que contiene: data y other_data. Guardarlos en la ruta local deseado.
 - Modificar la ruta en el notebook ETL_other_data.ipynb con la ruta donde se ha guardado la carpeta other_data.
 - Ejecutar el notebook ETL_other_data.ipynb. Esto generará dos ficheros: weather_conditions.txt; stations.txt
